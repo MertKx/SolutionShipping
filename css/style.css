@@ -1,7 +1,4 @@
-/*
- * Solution by GetTemplates.co
- * URL: https://GetTemplates.co
- */
+
 @font-face {
   font-family: "Lato-Regular";
   src: url(../fonts/Lato-Regular.ttf);
@@ -62,10 +59,10 @@ body {
   font-size: 36px;
   font-family: "Lato-Black";
   text-transform: uppercase;
-  background: -webkit-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -ms-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -moz-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -o-linear-gradient(left, #1d3ede, #01e6f8);
+  background: -webkit-linear-gradient(left, #5585ff, #00c4ff);
+  background: -ms-linear-gradient(left, #5585ff, #00c4ff);
+  background: -moz-linear-gradient(left, #5585ff, #00c4ff);
+  background: -o-linear-gradient(left, #5585ff, #00c4ff);
   -webkit-background-clip: text;
   -ms-background-clip: text;
   -o-background-clip: text;
@@ -73,6 +70,7 @@ body {
   -ms-text-fill-color: transparent;
   -o-text-fill-color: transparent;
 }
+
 #gtco-main-nav .bar1, #gtco-main-nav .bar2, #gtco-main-nav .bar3 {
   width: 25px;
   height: 2px;
